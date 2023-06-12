@@ -1,0 +1,22 @@
+
+.logic-panel{
+  height: 60%;
+  background-color: skyblue;
+  color: white;
+}
+
+.logic-panel h1{
+    margin-top: 0;
+}
+
+.logic-panel table {
+    height: 40%;
+}
+
+.logic-panel th{
+    width: 70px;
+    color: black;
+    border: 2px solid aquamarine;
+    background-color: white;
+    font-size: 24px;
+}

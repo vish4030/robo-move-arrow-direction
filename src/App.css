@@ -1,38 +1,56 @@
 .App {
-  text-align: center;
+  height: 800px;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.content {
+  width: 25%;
+  height: 100%;
+  border: 5px solid lightsteelblue;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.function {
+  width: 90%;
+  height: 100%;
+  border: 5px solid coral;
+  background-color: blue;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.function-step-track {
+  height: 7%;
+  padding: 2px;
+  border: 5px solid black;
 }
 
-.App-link {
-  color: #61dafb;
+.function-robo-dash {
+  height: 55%;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+#function-robo-dash-grid {
+  width: 50%;
+  border-collapse: collapse;
+  height: 100%;
+  background-color: lightyellow;
+}
+
+#function-robo-dash-grid tr {
+  height: 20%;
+}
+
+#function-robo-dash-grid tr td {
+  width: 100px;
+  padding: 2px;
+  border: 5px solid lightblue;
+}
+
+.function-robo-dash-Instruction {
+  width: 50%;
+  height: 98%;
+  margin: 0 10px;
+  background-color: darkblue;
+  text-align: left;
+  color:white;
+}
+
+.function-logic-control {
+  height: 37%;   
 }

@@ -4,7 +4,6 @@ import './steptrace.css'
 
 const StepTrace = () => {
     const flag = useSelector(state => state.dasbordControle.logicArr);
-    console.log(flag)
     return (
         <>
             <span className="dot" style={{ backgroundColor: flag[0]!= undefined? "darkblue" : "white" }} ></span>

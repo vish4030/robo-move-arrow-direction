@@ -1,10 +1,11 @@
 .App {
-  height: 800px;
+  height: 100vh;
 }
 
 .content {
   width: 25%;
   height: 100%;
+  background-color: darkgray;
   border: 5px solid lightsteelblue;
 }
 
@@ -52,5 +53,6 @@
 }
 
 .function-logic-control {
-  height: 37%;   
+  height: 37%;  
+  overflow: hidden; 
 }

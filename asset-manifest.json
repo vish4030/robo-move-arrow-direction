@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/robo-move-arrow-direction/static/css/main.b83a5893.css",
+    "main.js": "/robo-move-arrow-direction/static/js/main.9d0785b7.js",
+    "static/js/787.92790e66.chunk.js": "/robo-move-arrow-direction/static/js/787.92790e66.chunk.js",
+    "index.html": "/robo-move-arrow-direction/index.html",
+    "main.b83a5893.css.map": "/robo-move-arrow-direction/static/css/main.b83a5893.css.map",
+    "main.9d0785b7.js.map": "/robo-move-arrow-direction/static/js/main.9d0785b7.js.map",
+    "787.92790e66.chunk.js.map": "/robo-move-arrow-direction/static/js/787.92790e66.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b83a5893.css",
+    "static/js/main.9d0785b7.js"
+  ]
+}
